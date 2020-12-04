@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, Delphi, PHP.</strong>
+  🦄 Linguagens: <strong>Java, PHP, Python, Delphi.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode</strong>
+  💼 Ferramentas: <strong>VSCode, Eclipse, Git.</strong>
 </p>
 
 <p align="left">
-  💌 Para falar comigo é muito fácil, basta me chamar no LinkedIn, sempre to de olho lá ⤵️
+  💌 Para falar comigo é muito fácil, basta me chamar no LinkedIn, sempre to de olho lá ;) ⤵️
 </p>
 
 <p align="left">
