@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, PHP, Python, Delphi.</strong>
+  🦄 Linguagens: <strong>Java, PHP, Python, Delphi, C, C++.</strong>
 </p>
 
 <p align="left">
