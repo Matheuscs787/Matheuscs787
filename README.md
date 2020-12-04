@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Matheus, tenho 22 anos, trabalho principalmente como <strong>backend</strong>, porém tenho experiência como <strong>full stack<strong>.<br>
+  Meu nome é Matheus, tenho 22 anos, trabalho principalmente como <strong>backend</strong>, porém tenho experiência como <strong>full stack</strong>.<br>
   Atualmente trabalho com suporte técnico na Made4It e programo nas horas vagas, também estou cursando o 4° e último ano de Ciência da Computação na Universadide Estadual do Paraná (UNESPAR).
 </p>
 
