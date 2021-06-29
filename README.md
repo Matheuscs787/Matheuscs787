@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Meu nome é Matheus, tenho 22 anos, trabalho principalmente como <strong>backend</strong>, porém tenho experiência como <strong>full stack</strong>, onde atuei 1 ano trabalhando com Delphi e Firebird.<br>
-  Atualmente trabalho com suporte técnico na Made4It e programo nas horas vagas, também estou cursando o 4° e último ano de Ciência da Computação na Universadide Estadual do Paraná (UNESPAR).
+  Atualmente trabalho como full stack na Tata Consultancy Services, também estou cursando o 4° e último ano de Ciência da Computação na Universadade Estadual do Paraná (UNESPAR).
 </p>
 
 <p align="left">
