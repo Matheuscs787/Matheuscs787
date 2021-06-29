@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Matheus, tenho 22 anos, trabalho principalmente como <strong>backend</strong>, porém tenho experiência como <strong>full stack</strong>, onde atuei 1 ano trabalhando com Delphi e Firebird.<br>
+  Meu nome é Matheus, tenho 22 anos, trabalho principalmente como <strong>backend</strong>, porém tenho experiência como <strong>full stack</strong>, onde estou trabalhando principalmente com <strong>Java, .Net e Oracle</strong>.<br>
   Atualmente trabalho como full stack na Tata Consultancy Services, também estou cursando o 4° e último ano de Ciência da Computação na Universadade Estadual do Paraná (UNESPAR).
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, PHP, Python, Delphi, C, C++.</strong>
+  🦄 Linguagens: <strong>Java, PHP, Python, Delphi, .Net, Oracle.</strong>
 </p>
 
 <p align="left">
