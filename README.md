@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, Python, PHP, Delphi, .Net, SQL.</strong>
+  :computer: Linguagens: <strong>Java, Python, PHP, Delphi, .Net, SQL.</strong>
 </p>
 
 <p align="left">
