@@ -2,8 +2,8 @@
 
 <p align="left"> 
   Meu nome é Matheus, tenho 23 anos, trabalho como <strong>full stack</strong> na <strong>Tata Consultancy Services</strong>, usando <strong>Java, .Net e Oracle</strong>.<br>
-  Estou cursando o 4° e último ano de Ciência da Computação na Universadade Estadual do Paraná (UNESPAR).
-  Gosto de criar projetos utilizando Python, OpenCV, Yolo.
+  Estou cursando o 4° e último ano de Ciência da Computação na Universadade Estadual do Paraná (UNESPAR).<br>
+  Gosto de criar projetos utilizando Python, OpenCV e Yolo.
 </p>
 
 <p align="left">
