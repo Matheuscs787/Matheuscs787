@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  :hammer_and_wrench: Linguagens: <strong>Java, Python, PHP, Delphi, .Net, SQL.</strong>
+  :computer: Linguagens: <strong>Java, Python, PHP, Delphi, .Net, SQL.</strong>
 </p>
 
 <p align="left">
- :computer: Ferramentas: <strong>VSCode, Netbeans, Git, DBeaver.</strong>
+ :hammer_and_wrench: Ferramentas: <strong>VSCode, Netbeans, Git, DBeaver.</strong>
 </p>
 
 <p align="left">
