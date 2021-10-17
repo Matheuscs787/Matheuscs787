@@ -1,16 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Matheus, tenho 22 anos, trabalho principalmente como <strong>backend</strong>, porém tenho experiência como <strong>full stack</strong>, onde estou trabalhando principalmente com <strong>Java, .Net e Oracle</strong>.<br>
-  Atualmente trabalho como full stack na Tata Consultancy Services, também estou cursando o 4° e último ano de Ciência da Computação na Universadade Estadual do Paraná (UNESPAR).
+  Meu nome é Matheus, tenho 23 anos, trabalho como <strong>full stack</strong> na <strong>Tata Consultancy Services</strong>, usando <strong>Java, .Net e Oracle</strong>.<br>
+  Estou cursando o 4° e último ano de Ciência da Computação na Universadade Estadual do Paraná (UNESPAR).
+  Gosto de criar projetos utilizando Python, OpenCV, Yolo.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, PHP, Python, Delphi, .Net, Oracle.</strong>
+  🦄 Linguagens: <strong>Java, Python, PHP, Delphi, .Net, SQL.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Eclipse, Git.</strong>
+  💼 Ferramentas: <strong>VSCode, Netbeans, Git, DBeaver.</strong>
 </p>
 
 <p align="left">
