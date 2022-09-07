@@ -1,17 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Matheus, tenho 23 anos, trabalho como <strong>full stack</strong> na <strong>Tata Consultancy Services</strong>, usando <strong>Java, AngularJS, JavaScript e Oracle</strong>.<br>
+  Meu nome é Matheus, tenho 23 anos, trabalho como <strong>Backend</strong> na <strong>Ebix</strong>, usando <strong>Java e Oracle</strong>.<br>
   Sou Bacharel em Ciência da Computação na Universadade Estadual do Paraná (UNESPAR).<br>
   Gosto de criar projetos utilizando Java, Python, OpenCV e Yolo.
 </p>
 
 <p align="left">
-  :computer: Linguagens: <strong>Java, Python, AngularJS, JavaScript, PHP, Delphi, SQL.</strong>
+  :computer: Linguagens: <strong>Java, Python, AngularJS, JavaScript, Delphi, SQL.</strong>
 </p>
 
 <p align="left">
- :hammer_and_wrench: Ferramentas: <strong>VSCode, Netbeans, Git, DBeaver.</strong>
+ :hammer_and_wrench: Ferramentas: <strong>VSCode, Netbeans, Eclipse, Git, DBeaver.</strong>
 </p>
 
 <p align="left">
