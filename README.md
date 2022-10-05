@@ -2,7 +2,8 @@
 
 <p align="left"> 
   Meu nome é Matheus, tenho 23 anos, trabalho como <strong>Backend</strong> na <strong>Ebix</strong>, usando <strong>Java e Oracle</strong>.<br>
-  Sou Bacharel em Ciência da Computação na Universadade Estadual do Paraná (UNESPAR).<br>
+  Sou Bacharel em Ciência da Computação na Universadade Estadual do Paraná (UNESPAR)
+  e estou cursando uma Especialização em Java pela Universidade Tecnológica Federal do Paraná (UTFPR).<br>
   Gosto de criar projetos utilizando Java, Python, OpenCV e Yolo.
 </p>
 
@@ -11,7 +12,7 @@
 </p>
 
 <p align="left">
- :hammer_and_wrench: Ferramentas: <strong>VSCode, Netbeans, Eclipse, Git, DBeaver.</strong>
+ :hammer_and_wrench: Ferramentas: <strong>VSCode, Netbeans, Eclipse, IntelliJ, Git, DBeaver.</strong>
 </p>
 
 <p align="left">
