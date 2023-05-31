@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  :computer: Linguagens: <strong>Java, Python, AngularJS, JavaScript, Delphi, SQL.</strong>
+  :computer: Linguagens e Frameworks: <strong>Java, Spring boot, Spring Security, JPA, Python, AngularJS, JavaScript, Delphi, SQL.</strong>
 </p>
 
 <p align="left">
