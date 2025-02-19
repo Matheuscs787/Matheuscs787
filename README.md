@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Matheus, tenho 24 anos, trabalho como desenvolvedor <strong>Backend</strong> na <strong>Ebix</strong>, usando <strong>Java e Oracle</strong>.<br>
-  Sou Bacharel em Ciência da Computação na Universadade Estadual do Paraná (UNESPAR).<br>
-  Estou cursando uma Especialização em Java pela Universidade Tecnológica Federal do Paraná (UTFPR) e cursando como aluno especial um Mestrado em Engenharia de 
-  Software pela Universidade Estadual de Londrina (UEL).<br>
-  Gosto de criar projetos utilizando Java, Python, OpenCV e Yolo.
+  Meu nome é Matheus, tenho 26 anos, trabalho como desenvolvedor <strong>Backend</strong> na <strong>Fóton Informática</strong>, usando <strong>Java e Oracle</strong>.<br>
+  Sou Bacharel em Ciência da Computação na Universadade Estadual do Paraná (UNESPAR) e especialista em Java pela Universidade Tecnológica Federal do Paraná (UTFPR).<br>
+  Estou cursando pós graduação em Engenharia de Software, Cloud e IA, também estou cursando como aluno especial um Mestrado em Engenharia de 
+  Software pela Universidade Tecnológica Federal do Paraná (UTFPR).<br>
+  Gosto de criar projetos utilizando Java, Spring, Python, OpenCV e Yolo.
 </p>
 
 <p align="left">
-  :computer: Linguagens e Frameworks: <strong>Java, Spring boot, Spring Security, JPA, Python, AngularJS, JavaScript, Delphi, SQL.</strong>
+  :computer: Linguagens e Frameworks: <strong>Java, Spring boot, ACE, Docker, API Gateway, GitHub Actions, Microservices, Spring Security, JPA, Python, AngularJS, JavaScript, Delphi, SQL.</strong>
 </p>
 
 <p align="left">
