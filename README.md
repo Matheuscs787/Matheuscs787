@@ -28,10 +28,13 @@
   
 </p>  
 
+<p align="left">
+  📊 Estatísticas
+</p>
 
 <p align="left">
-  📊 Estatisticas
-  
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Matheuscs787&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Matheuscs787&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Matheuscs787&theme=radical&hide_border=false" />
+</p><p align="left">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheuscs787&theme=radical" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matheuscs787&theme=radical" />
 </p>
