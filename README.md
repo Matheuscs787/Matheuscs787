@@ -32,7 +32,9 @@
 <p align="left">
   📊 Estatisticas
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscs787&&langs_count=8&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Matheuscs787 github stats](https://github-readme-stats.vercel.app/api?username=Matheuscs787&count_private=true&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscs787&langs_count=8&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Matheuscs787 github stats](https://github-readme-stats.vercel.app/api?username=Matheuscs787&count_private=true&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 
